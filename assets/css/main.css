@@ -196,7 +196,7 @@
 		}
 
 		a:hover {
-			color: #ff7496;
+			color: #2b475e;
 		}
 
 	strong, b {
@@ -390,7 +390,7 @@
 		input[type="tel"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #ff7496;
+			border-color: #2b475e;
 		}
 
 	select {
@@ -486,13 +486,13 @@
 
 		input[type="checkbox"]:checked + label:before,
 		input[type="radio"]:checked + label:before {
-			color: #ff7496;
+			color: #2b475e;
 			content: '\f00c';
 		}
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #ff7496;
+			border-color: #2b475e;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -844,8 +844,8 @@
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			border-color: #ff7496;
-			color: #ff7496 !important;
+			border-color: #2b475e;
+			color: #2b475e !important;
 		}
 
 		input[type="submit"].icon,
