@@ -559,6 +559,9 @@
 		.icon.brands:before {
 			font-family: 'Font Awesome 5 Brands';
 		}
+		.icon.solids:before {
+			font-family: 'Font Awesome 5 Free';
+		}
 
 /* List */
 
@@ -771,7 +774,7 @@
 					line-height: 1;
 					text-transform: none !important;
 					font-family: 'Font Awesome 5 Free';
-					font-weight: 400;
+					font-weight: 900;
 				}
 
 				ul.icons li a:before {
